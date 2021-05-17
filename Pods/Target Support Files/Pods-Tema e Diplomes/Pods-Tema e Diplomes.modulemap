@@ -1,0 +1,6 @@
+framework module Pods_Tema_e_Diplomes {
+  umbrella header "Pods-Tema e Diplomes-umbrella.h"
+
+  export *
+  module * { export * }
+}
